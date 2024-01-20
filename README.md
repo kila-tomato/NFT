@@ -2,7 +2,6 @@
 <samp>
 
 # NFT
-
 Study NFT.
 
 </samp>
